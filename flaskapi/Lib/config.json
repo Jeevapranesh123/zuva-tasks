@@ -1,0 +1,4 @@
+{
+    "Mongo_URI":"mongodb+srv://jeeva:1ckQA77SKxHhWiD7@api.hwuwg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongodocker":"mongodb://root:example@mongo:27017/API"
+}
